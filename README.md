@@ -9,5 +9,4 @@ also has a gui based predictor (my first time using pyqt5)
 run predict-gui.py to use my model
 and pretrained-v1/predict-pretrained-gui.py to use the already trained model
 
-my model classifies the text into one of six classes while the pretrained model can only
-classify as postive/neutral/negative
+my model classifies the text into one of six classes while the pretrained model can only classify as postive/neutral/negative
